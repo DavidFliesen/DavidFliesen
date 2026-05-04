@@ -39,7 +39,15 @@ AI-powered Business Intelligence dashboard with a RAG chatbot, FAISS knowledge b
 
 -----
 
-### 📰 [Aladdin’s News Genie (ANG)](https://youtu.be/BxsDoSwnzKo) *(Agentic Frameworks Course)*
+### 🐼 [Stillwater — Chair Tai Chi](https://www.youtube.com/watch?v=UvSqe8yiZ24) · [Try It Live](https://stillwatersensei.github.io/) *(Idea → Prototype · ~10 Hours)*
+
+A browser-based Chair Tai Chi & Qigong guided experience led by **Sage the Stillwater Sensei Panda**. Taken from epiphany to working prototype in under 10 hours. Roadmap includes avatar animation with lip sync for a freemium version, and computer vision so Sage can recognize your movements via camera and offer gentle corrections or adapt the routine to what you can do.
+
+`Browser App` `ChatGPT` `GitHub Pages` `Computer Vision (Planned)` `Freemium Model`
+
+-----
+
+### 📰 [Aladdin’s News Genie (ANG)](https://youtu.be/aXyeG0BJ7P4) *(Agentic Frameworks Course)*
 
 Multi-node agentic news assistant with LangGraph routing, live NewsAPI + GNews feeds, and a three-panel Streamlit UI — all running in Google Colab.
 
@@ -52,6 +60,14 @@ Multi-node agentic news assistant with LangGraph routing, live NewsAPI + GNews f
 Daily AI-generated comic strip starring Honey Bear (Yorkie) and Bootsie Belle (tuxedo cat). A living multi-LLM storytelling testbed — JSON-driven SPA on GitHub Pages with RSS email delivery and deep-linking.
 
 `ChatGPT` `Claude` `Gemini` `Adobe Firefly` `GitHub Pages` `RSS`
+
+-----
+
+### 📺 [PODQUAD](https://davidfliesen.github.io/podquad.html) · [Repository](https://github.com/DavidFliesen/podquad) *(Open Source · MIT License)*
+
+Watch up to **4 videos simultaneously** in a single browser page. Built as an open-source iFrame viewer and shared freely under an MIT License — because sometimes one screen just isn't enough.
+
+`HTML` `iFrame` `Open Source` `MIT License` `GitHub Pages`
 
 -----
 
